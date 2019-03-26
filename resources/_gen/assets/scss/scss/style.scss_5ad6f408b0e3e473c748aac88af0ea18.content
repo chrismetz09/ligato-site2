@@ -5576,8 +5576,8 @@ ol {
       display: block;
       width: 120px; } }
   .logo img {
-    width: 35px;
-    height: 35px; }
+    width: 48px;
+    height: 48px; }
   .logo a {
     display: block;
     width: 100%;
