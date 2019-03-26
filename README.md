@@ -34,11 +34,15 @@ Go to localhost:1313 on your favorite browser and check it out.
 
 This uses live reload so any changes will be instantaneous.
 
-### Some Contents
+### Some Comments
 
 * all content is written in markdown. Usual markdown links including those for images work.
 
 * all content is contained in the content/ folder. You can see how sub-folders under content/ relate to specific content on the site.
 
+* all the content here is high-level. Detailed technical documentation is automatically retrieved from the Ligato github repos and hosted on a readthedocs.io site which in turn is reachable by the `documentation` menu option.
+
 * `config.toml` is the main config file. `content/_index.md` contains the home page text.
+
+Contivpp.io is based on Hugo and the code for that is [here](https://github.com/contivpp/contivpp-site)
 
