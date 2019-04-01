@@ -1,6 +1,6 @@
 baseURL = "http://www.example.com"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Ligato.io"
 themesDir = "./themes"
 theme = "hugo-hero-theme"
 
@@ -19,13 +19,13 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Overview"
+	name = "What is Ligato?"
 	url = "/Overview/"
     weight = 1
 
 [[menu.main]]
     name = "Documentation"
-    url = "https://ligato-docs.readthedocs.io/en/latest/"
+    url = "https://ligato.readthedocs.io/en/latest/"
     weight = 2
 
 
