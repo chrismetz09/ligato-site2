@@ -11,3 +11,35 @@ heroBackground: 'services/service2.jpg'
 ---
 
 definitions on commonly used terms ...
+
+- VPP
+
+- Golang
+
+- gRPC
+
+- etcd
+
+- contiv vpp
+
+- network service mesh
+
+- GoVPP
+
+- Plugins
+
+- VPP vSwitch
+
+- User Space
+
+- dpdk
+
+- plugins
+
+- CNF
+
+- KV Store
+
+- KV Scheduler
+
+...

@@ -1,10 +1,31 @@
 ---
 title: 'Work'
 date: 2018-02-10T11:52:18+07:00
-heroHeading: 'What is a CNF Agent?'
+heroHeading: 'Design Choices?'
 heroSubHeading: ''
 heroBackground: ''
 ---
+
+
+Covers Ligato Design Choices where CNF agent is implementation of intent which is to manage/control CNF/VPP
+
+Here are some questions to be answered:
+
+1. leverage user-space for CNF performance inherited from VPP. Might seem obvious but why not start with the fastest data-plane out there
+
+2. lightweight containerized packaging of VPP and VPP agent
+
+3. Suite of out-of-the-box plugins facilitating customizable VPP data plane programmability and Upstream application interactions
+
+4. Watch/Listener model for rapid programmability given nature of cloud native pod/container deployment frequency. KV scheduler?
+
+5. written in Go. What are the reasons? Cuz things like k8s and etcd written in Go? Better performance?
+
+6. GoVPP? so plugins can interact with VPP per doc? why are binaries used to interact with the VPP data-plane
+
+7. why protobufs? multiple transport protocols?
+
+Below is original notes on CNF Agent.
 
 ### _Traditional VNF Programmability_
 </br>

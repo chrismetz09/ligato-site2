@@ -10,3 +10,5 @@ heroBackground: ''
 ---
 
 Ligato VPP Agent
+
+Explain VPP agent and show picture

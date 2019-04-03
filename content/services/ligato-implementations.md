@@ -9,4 +9,14 @@ heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-Ligato Implementations
+Ligato VPP agent and plugins are implemented in several platforms.
+
+#### Contiv VPP Kubernetes CNI Plugin
+
+More information [here](https://contivpp.io/)
+
+#### Network Service Mesh
+
+More information [here](https://networkservicemesh.io/)
+
+
