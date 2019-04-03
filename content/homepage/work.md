@@ -1,9 +1,9 @@
 ---
 title: 'CNF Agents'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: ''
 button: 'Learn More'
 buttonLink: 'work'
 ---
 
-CNFs come in multiple flavors. All require software agents allowing for orchestration, telementry applications to control and manage constellations of CNF. Ligato provides the libraries, examples and documentation on how to design and build CNF agents. 
+CNFs come in multiple flavors. All require software agents for control and management purposes. Ligato provides such agents for the management and control of VPP-based CNFs

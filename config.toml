@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://inspiring-heyrovsky-2b26fa.netlify.com"
 languageCode = "en-us"
 title = "Ligato.io"
 themesDir = "./themes"

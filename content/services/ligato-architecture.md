@@ -9,4 +9,7 @@ heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 ---
 
-Ligato Architecture
+Discussion of architecture  
+
+
+

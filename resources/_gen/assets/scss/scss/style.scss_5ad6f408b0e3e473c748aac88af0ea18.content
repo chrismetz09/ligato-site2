@@ -5425,8 +5425,7 @@ a.text-dark:hover, a.text-dark:focus {
 ul,
 ol {
   margin: 0;
-  padding: 0;
-  list-style: none; }
+  padding: 0; }
 
 .page {
   display: flex;
