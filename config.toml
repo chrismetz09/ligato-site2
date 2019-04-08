@@ -32,6 +32,11 @@ theme = "hugo-hero-theme"
 [[menu.main]]
     name = "Github"
     url = "https://github.com/ligato"
+    weight = 3
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
     weight = 4
 
 [permalinks]

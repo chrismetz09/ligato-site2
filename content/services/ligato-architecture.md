@@ -7,6 +7,7 @@ draft: false
 heroHeading: 'Architecture'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
+summary: 'summary!'
 ---
 
 Discussion of architecture  

@@ -1,19 +1,28 @@
 ---
 title: 'Work'
 date: 2018-02-10T11:52:18+07:00
-heroHeading: 'Design Choices?'
+heroHeading: 'Design Choices'
 heroSubHeading: ''
 heroBackground: ''
 ---
 
+__Big Picture:__ we need an open source solution for dynamically managing and programming CNF/VPPs in Cloud Native Networks. Ligato is that solution.
 
-Covers Ligato Design Choices where CNF agent is implementation of intent which is to manage/control CNF/VPP
+Before delving into the what and how, let's take a look at the choices made during its design and inception. The intent of Ligato is ultim 
 
-Here are some questions to be answered:
+__FD.io/VPP__ In any network solution, it goes without saying you want THE *fastest* and most *scalable* data-plane available and FD.io/VPP fits the bill. Some highlights:   
 
-1. leverage user-space for CNF performance inherited from VPP. Might seem obvious but why not start with the fastest data-plane out there
+- Performance
 
-2. lightweight containerized packaging of VPP and VPP agent
+- Feature rich
+
+- User Space
+
+- 
+
+
+
+__Containerized VPP data and VPP agent__ Can run anywhere but 
 
 3. Suite of out-of-the-box "batteries included" plugins facilitating customizable VPP data plane programmability and Upstream application interactions
 
