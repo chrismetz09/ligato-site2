@@ -7,6 +7,7 @@ draft: false
 heroHeading: 'Infrastructure'
 heroSubHeading: ''
 heroBackground: ''
+weight: 5
 ---
 
-CN-Infra ...
+CN Infra ...

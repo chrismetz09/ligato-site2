@@ -7,7 +7,7 @@ draft: false
 heroHeading: 'Implementations'
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
-marker: 'look here'
+weight: 4
 ---
 
 Ligato VPP agent and plugins are implemented in several platforms.
@@ -21,11 +21,3 @@ Network Service Mesh
 
 More information [here](https://networkservicemesh.io/)
 
-jdfsasjdflasldfjasjldfk
-
-
-adsjlfjlaksjdfklajlsdFjkldajldfsjlasjdflkajldfsjlasfd
-
-dfafdjkasjfsldajlkfdjklajskldfjalsdjfklajsldfjlajlfdkjaljdflajldsjflajLdf
-
-adflajkfdjalksdjflajkl/dfj

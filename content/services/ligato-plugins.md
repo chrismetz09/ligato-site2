@@ -8,6 +8,7 @@ weight: 1
 heroHeading: 'Plugins'
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
+weight: 3
 ---
 
-Overview Plugins
+Plugins ...
