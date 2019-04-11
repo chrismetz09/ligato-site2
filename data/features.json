@@ -1,17 +1,37 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "features/noun_branding_1885335.svg"
+    "title": "FD.io/VPP",
+    "description": "Open source dataplane running in user space with rich feature set ideal for CNFs.",
+    "image": "images/fdio.png"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "features/noun_The Process_1885341.svg"
+    "title": "VPP Agent",
+    "description": "Control plane for dynamic VPP data-plane configuration and programmability ",
+    "image": "images/logo-ligato-vpp-agent.png"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "features/noun_3d modeling_1885342.svg"
+    "title": "Kubernetes",
+    "description": "Container Orchestration & Scheduling",
+    "image": "images/k8s-logo.png"
+  },
+  {
+    "title": "Cloud Native Ecosystem",
+    "description": "First class citizen with seamless management and operations",
+    "image": "images/logo-cncf.png"
+  },
+  {
+    "title": "Open Source",
+    "description": "Full blown industry backed open source",
+    "image": "images/logo-lfn.png"
+  },
+  {
+    "title": "Go Programming",
+    "description": "Written in Go for maximum performance and concurrency",
+    "image": "images/logo-golang.jpg"
+  },
+  {
+    "title": "Contiv VPP",
+    "description": "Contiv vswitch is a CNF using VPP Agent + VPP data-plane",
+    "image": "images/logo-contiv-anchor.png"
   }
 ]
