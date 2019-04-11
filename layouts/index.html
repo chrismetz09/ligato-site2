@@ -24,11 +24,11 @@
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
 {{ range first 1 $reusablePages }}
 <div id="home" class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
-  <div class="container pt-16 pb-17">
+  <div class="container pt-10 pb-15">
   <!--Metz Comments: add design choices figure on home page-->
     <div class="row">
       <div class="col-md-6">
-        <img src="./images/ligato-design-choice-small.png" alt="ligato-design" width="400" height="290">
+        <img src="./images/ligato-splash-figure-placeholder.png" alt="ligato-design" width="400" height="350">
       </div>
       <div class="col-md-4 offset-md-2">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
@@ -81,6 +81,7 @@
       <div class="col-12 col-md-8 text-center text-white">
         <h2>{{ .Title }}</h2>
         <p>{{ .Content }}</p>
+        <script>console.log ("is this code run?")</script>
         <a class="button button-white" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
       </div>
     </div>

@@ -10,7 +10,8 @@ heroBackground: 'services/service2.jpg'
 weight: 1
 ---
 
-Discussion of architecture  
+Architecture Notes
+
 
 
 

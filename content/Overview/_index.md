@@ -5,4 +5,6 @@ heroHeading: 'What is Ligato?'
 draft: true
 ---
 
-Brief Overview of Ligato ...
+Overview of Ligato System
+
+{{ < shortcodes/bundle-content pages author > }}
