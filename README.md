@@ -44,5 +44,5 @@ This uses live reload so any changes will be instantaneous.
 
 * `config.toml` is the main config file. `content/_index.md` contains the home page text.
 
-Contivpp.io is based on Hugo and the code for that is [here](https://github.com/contivpp/contivpp-site)
+
 
